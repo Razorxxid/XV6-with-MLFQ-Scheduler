@@ -1,0 +1,5 @@
+size -> NPROC
+esize sizeof(struct proc* )
+
+
+struct proc *array[NPROC]
